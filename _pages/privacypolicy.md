@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+19/07/2022
 
 # Privacy Policy
 Ulrik Stoch Jensen built the Badevandet app as a Free app. This SERVICE is provided by Ulrik Stoch Jensen at no cost and is intended for use as is.
