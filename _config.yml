@@ -41,11 +41,11 @@ features                                  :
     
   - title                                 : Temperatur
     description                           : Se vandtemperaturen 3 dage frem.
-    fontawesome_icon_name                 : temperature-full
+    fontawesome_icon_name                 : temperature_full
 
   - title                                 : Find badesteder
     description                           : Finde og søge badesteder du måske ikke kendte til.
-    fontawesome_icon_name                 : location-dot
+    fontawesome_icon_name                 : location_dot
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
